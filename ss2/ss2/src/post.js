@@ -52,7 +52,7 @@ const Post = () => {
         {posts.map((post, index) => {
           return (
             <tbody>
-              <tr>
+              <tr key={index}>
               <td>{index + 1}</td>
               <td>{post.title}</td>
               <td>{post.category}</td>
