@@ -47,14 +47,14 @@ const CustomerList = () => {
               </thead>
               <tbody>
                 <tr>
-                  <td>{index + 1}</td>
+                  {/* <td>{index + 1}</td>
                   <td>{customer.name}</td>
                   <td>{customer.dob}</td>
                   <td>{customer.gender}</td>
                   <td>{customer.identity}</td>
                   <td>{customer.phone}</td>
                   <td>{customer.customerType.name}</td>
-                  <td>{customer.location}</td>
+                  <td>{customer.location}</td> */}
                   <td>
                     <button type="button" className="btn btn-primary">
                       Edit

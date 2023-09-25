@@ -1,4 +1,4 @@
-const CustomerCreate = () => {
+const CustomerEdit = () => {
   return (
     <>
       <>
@@ -99,4 +99,4 @@ const CustomerCreate = () => {
     </>
   );
 };
-export default CustomerCreate;
+export default CustomerEdit;

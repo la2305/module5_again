@@ -8,7 +8,7 @@ const ContractList = () => {
             <div className="table-title">
               <div className="row">
                 <div className="col-sm-7">
-                  <h2>Customer list</h2>
+                  <h2>Contract list</h2>
                 </div>
                 <div className="col-sm-4">
                   <div className="search-box">

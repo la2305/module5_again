@@ -1,0 +1,372 @@
+{
+  "facility": [
+    {
+      "id": 1,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 2,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 3,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 4,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 5,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 6,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 7,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 8,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 9,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 10,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 11,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 12,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 13,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 14,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 15,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 16,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 17,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 18,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 19,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 20,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 21,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 22,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 23,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 24,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 25,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 26,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 27,
+      "name": "SUPERIOR ROOM FACING LAKE",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
+      "typeRental": {
+        "id": 1,
+        "name": "hour"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 28,
+      "name": "LAGOON SUPERIOR",
+      "area": "Room area: 40.1 m2",
+      "image": "https://tbb-prod-apac.imgix.net/attachments/room_type_photos/images/722781/722781/63984554_XL.jpg?auto=format,compress&fit=crop&crop=entropy&w=300&h=200&q=55",
+      "typeRental": {
+        "id": 2,
+        "name": "day"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 29,
+      "name": "DELUXE ROOM FACING THE SEA",
+      "area": "Room area: 43.7 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-872x563.jpg",
+      "typeRental": {
+        "id": 3,
+        "name": "month"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 30,
+      "name": "DELUXE ROOM FACING GARDEN",
+      "area": "Room area: 40.1 m2",
+      "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Garden-Deluxe-5-872x563.jpg",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "alo"
+    },
+    {
+      "id": 31,
+      "name": "sfesafseaf11112312321321",
+      "area": "123",
+      "image": "fsefasef",
+      "typeRental": {
+        "id": 4,
+        "name": "year"
+      },
+      "description": "sfasef"
+    },
+    {
+      "name": "ádasdasd",
+      "area": "12312312",
+      "image": "https://dolotnamdep.com/images/gallery/sip-rach.jpg",
+      "typeRental": "",
+      "description": "123123",
+      "typerental": "{\"id\":3,\"name\":\"month\"}",
+      "id": 32
+    }
+  ],
+  "TypeRental": [
+    {
+      "id": 1,
+      "name": "hour"
+    },
+    {
+      "id": 2,
+      "name": "day"
+    },
+    {
+      "id": 3,
+      "name": "month"
+    },
+    {
+      "id": 4,
+      "name": "year"
+    }
+  ]
+}
