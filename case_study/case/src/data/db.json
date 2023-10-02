@@ -1,9 +1,659 @@
 {
+  "Contracts": [
+    {
+      "id": 1,
+      "code": 1,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 2,
+      "code": 2,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 3,
+      "code": 3,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 4,
+      "code": 4,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 5,
+      "code": 5,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 6,
+      "code": 6,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 7,
+      "code": 7,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 8,
+      "code": 8,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 9,
+      "code": 9,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 10,
+      "code": 10,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 11,
+      "code": 11,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 12,
+      "code": 12,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 13,
+      "code": 13,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 14,
+      "code": 14,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 15,
+      "code": 15,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 16,
+      "code": 16,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 17,
+      "code": 17,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 18,
+      "code": 18,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 19,
+      "code": 19,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 20,
+      "code": 20,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 21,
+      "code": 21,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 22,
+      "code": 22,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 23,
+      "code": 23,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 24,
+      "code": 24,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 25,
+      "code": 25,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 26,
+      "code": 26,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 27,
+      "code": 27,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 28,
+      "code": 28,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    },
+    {
+      "id": 29,
+      "code": 29,
+      "dateStart": "23/05/2023",
+      "dateEnd": "30/05/2023",
+      "depositMoney": 500000,
+      "totalMoney": 1000000
+    }
+  ],
+  "Customers": [
+    {
+      "id": 1,
+      "name": "Le",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Lê Thanh Hùng",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "hà lam",
+      "id": 2
+    },
+    {
+      "name": "Lê Thanh Dũng",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "location": "hà lam",
+      "id": 3
+    },
+    {
+      "name": "Nguyễn Tiến Đạt",
+      "dob": "2023-09-25",
+      "gender": "Female",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 3,
+        "name": "Gold"
+      },
+      "location": "gold",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Lê Quang Phước",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Hàn Lâm Trang Anh",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 4,
+        "name": "Silver"
+      },
+      "location": "hà lam",
+      "id": 6
+    },
+    {
+      "name": "Lý Liên Kiệt",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "hà lam",
+      "id": 7
+    },
+    {
+      "name": "Leee",
+      "dob": "2023-09-11",
+      "gender": "Male",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "213123",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Le",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Lê Thanh Hùng",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "hà lam",
+      "id": 10
+    },
+    {
+      "name": "Lê Thanh Dũng",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "location": "hà lam",
+      "id": 11
+    },
+    {
+      "name": "Nguyễn Tiến Đạt",
+      "dob": "2023-09-25",
+      "gender": "Female",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 3,
+        "name": "Gold"
+      },
+      "location": "gold",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "Lê Quang Phước",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Hàn Lâm Trang Anh",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 4,
+        "name": "Silver"
+      },
+      "location": "hà lam",
+      "id": 14
+    },
+    {
+      "name": "Lý Liên Kiệt",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "hà lam",
+      "id": 15
+    },
+    {
+      "name": "Leee",
+      "dob": "2023-09-11",
+      "gender": "Male",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "213123",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "Le",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Lê Thanh Hùng",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "hà lam",
+      "id": 18
+    },
+    {
+      "name": "Lê Thanh Dũng",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 1,
+        "name": "Diamond"
+      },
+      "location": "hà lam",
+      "id": 19
+    },
+    {
+      "name": "Nguyễn Tiến Đạt",
+      "dob": "2023-09-25",
+      "gender": "Female",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 3,
+        "name": "Gold"
+      },
+      "location": "gold",
+      "id": 20
+    },
+    {
+      "id": 21,
+      "name": "Lê Quang Phước",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Hàn Lâm Trang Anh",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 4,
+        "name": "Silver"
+      },
+      "location": "hà lam",
+      "id": 22
+    },
+    {
+      "name": "Lý Liên Kiệt",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "hà lam",
+      "id": 23
+    },
+    {
+      "name": "Leee",
+      "dob": "2023-09-11",
+      "gender": "Male",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "213123",
+      "id": 24
+    },
+    {
+      "id": 25,
+      "name": "Lê Quang Phước",
+      "dob": "2001-06-05",
+      "gender": "Nam",
+      "identity": "049098000697",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "Việt Nam"
+    },
+    {
+      "name": "Hàn Lâm Trang Anh",
+      "dob": "2001-06-05",
+      "gender": "Female",
+      "identity": "213123123",
+      "phone": "0338210438",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 4,
+        "name": "Silver"
+      },
+      "location": "hà lam",
+      "id": 26
+    },
+    {
+      "name": "Lý Liên Kiệt",
+      "dob": "2023-09-12",
+      "gender": "Male",
+      "identity": "33123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 2,
+        "name": "Platinium"
+      },
+      "location": "hà lam",
+      "id": 27
+    },
+    {
+      "name": "Leee",
+      "dob": "2023-09-11",
+      "gender": "Male",
+      "identity": "123123123",
+      "phone": "0338210411",
+      "email": "lequangphuoc2305@gmail.com",
+      "customerType": {
+        "id": 5,
+        "name": "Member"
+      },
+      "location": "213123",
+      "id": 28
+    }
+  ],
+  "customerType": [
+    {
+      "id": 1,
+      "name": "Diamond"
+    },
+    {
+      "id": 2,
+      "name": "Platinium"
+    },
+    {
+      "id": 3,
+      "name": "Gold"
+    },
+    {
+      "id": 4,
+      "name": "Silver"
+    },
+    {
+      "id": 5,
+      "name": "Member"
+    }
+  ],
   "facility": [
     {
       "id": 1,
       "name": "SUPERIOR ROOM FACING LAKE",
-      "area": "Room area: 40.1 m2",
+      "area": "40",
       "image": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Lagoon-Superior-twin-bed-M-1047x563.jpg",
       "typeRental": {
         "id": 2,
@@ -329,26 +979,6 @@
         "name": "year"
       },
       "description": "alo"
-    },
-    {
-      "id": 31,
-      "name": "sfesafseaf11112312321321",
-      "area": "123",
-      "image": "fsefasef",
-      "typeRental": {
-        "id": 4,
-        "name": "year"
-      },
-      "description": "sfasef"
-    },
-    {
-      "name": "ádasdasd",
-      "area": "12312312",
-      "image": "https://dolotnamdep.com/images/gallery/sip-rach.jpg",
-      "typeRental": "",
-      "description": "123123",
-      "typerental": "{\"id\":3,\"name\":\"month\"}",
-      "id": 32
     }
   ],
   "TypeRental": [

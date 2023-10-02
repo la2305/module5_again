@@ -23,7 +23,7 @@ function App() {
         <Route path="/facility/edit/:id" element={<FacilityEdit></FacilityEdit>}></Route>
         <Route path="/customer" element={<CustomerList></CustomerList>}></Route>
         <Route path="/customer/create" element={<CustomerCreate></CustomerCreate>}></Route>
-        <Route path="/customer/edit" element={<CustomerEdit></CustomerEdit>}></Route>
+        <Route path="/customer/edit/:id" element={<CustomerEdit></CustomerEdit>}></Route>
         <Route path="/contract" element={<ContractList></ContractList>}></Route>
         <Route path="/contract/create" element={<ContractCreate></ContractCreate>}></Route>
       </Routes>

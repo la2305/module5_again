@@ -4,6 +4,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import * as Yup from "yup";
 import { getListType } from "../../service/TypeRentalService";
 import {  editFacility, getFacilityById } from "../../service/FacilityService";
+import swal from 'sweetalert';
 
 
 
@@ -23,9 +24,7 @@ const FacilityEdit = () => {
 
   const loadFacility= async (id) =>{
     const data = await getFacilityById(id);
-    console.log(data);
     const newData = {...data,typeRental: `${JSON.stringify(data.typeRental)}`}
-    console.log(newData);
     setFacility(newData);
   }
 
@@ -39,9 +38,14 @@ const FacilityEdit = () => {
     return null;
   }
   const handleSubmit = async (values)=>{
-    console.log(values);
     await editFacility(values);
     navigate("/");
+    
+    const willDelete = await swal({
+      title: "Edit Complete",
+      text: "Add Facility success",
+      icon: "success",
+    });
   } 
 
   return (
