@@ -22,7 +22,7 @@ public class CustomerController {
     private ICustomerTypeService iCustomerTypeService;
 
     @GetMapping("")
-    public ResponseEntity<Page<Customer>> showList(@RequestParam(name = "_page", defaultValue = "0") int page,
+        public ResponseEntity<Page<Customer>> showList(@RequestParam(name = "_page", defaultValue = "0") int page,
                                                    @RequestParam(name = "name_like", defaultValue = "%") String searchName,
                                                    @RequestParam(name = "customerType.id", defaultValue = "%") String idType) {
         Pageable pageable = PageRequest.of(page, 5);
@@ -39,21 +39,22 @@ public class CustomerController {
         iCustomerService.save(customer);
         return new ResponseEntity<>(HttpStatus.CREATED);
     }
-//    @GetMapping("/{id}")
-//    public ResponseEntity<Product> showDetail(@PathVariable int id) {
-//        Product product = productService.findById(id);
-//        if (product == null) {
-//            return new ResponseEntity<>(HttpStatus.NO_CONTENT);
-//        }
-//        return new ResponseEntity<>(product, HttpStatus.OK);
-//
-//    }
-//
-//    @PatchMapping("/edit")
-//    public ResponseEntity<Product> updateProduct( @RequestBody Product product) {
-//        productService.save(product);
-//        return new ResponseEntity<>(HttpStatus.OK);
-//
-//    }
-
+    @GetMapping("/{id}")
+    public ResponseEntity<Customer> showCustomerDetail(@PathVariable int id) {
+        Customer customer = iCustomerService.findCustomerById(id);
+        if (customer == null) {
+            return  new ResponseEntity<>(HttpStatus.NO_CONTENT);
+        } else {
+            return new ResponseEntity<>(customer,HttpStatus.OK);
+        }
+    }
+    @PutMapping("/edit/{id}")
+    public ResponseEntity<Customer> editCustomer (@PathVariable int id, @RequestBody Customer customer){
+        if(iCustomerService.findCustomerById(id) ==null){
+            return ResponseEntity.notFound().build();
+        } else {
+            iCustomerService.editCustomer(customer);
+            return ResponseEntity.ok(customer);
+        }
+    }
 }

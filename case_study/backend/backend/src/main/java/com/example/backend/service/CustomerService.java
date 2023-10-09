@@ -36,6 +36,6 @@ public class CustomerService implements ICustomerService{
 
     @Override
     public void editCustomer(Customer customer) {
-        iCustomerRespository.editCustomer(customer.getId(),customer.getDob().toString(),customer.getEmail(),customer.isGender(),customer.getIdentity(),customer.getLocation(),customer.getName(),customer.getPhone(),customer.getCustomerType().getId());
+        iCustomerRespository.editCustomer(customer.getId(),customer.getDob(),customer.getEmail(),customer.isGender(),customer.getIdentity(),customer.getLocation(),customer.getName(),customer.getPhone(),customer.getCustomerType().getId());
     }
 }

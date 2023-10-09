@@ -33,6 +33,6 @@ public interface ICustomerRespository extends JpaRepository<Customer, Integer> {
 
     @Transactional
     @Modifying
-    @Query(value = "update customer set dob = :dob, email = :email, gender = :gender, identity = :identity, location = :location, name = :name, phone = :phone , typeId = :typeId where id= :id", nativeQuery = true)
-    void editCustomer(@Param(value = "id") int id, @Param(value = "dob") String dob,@Param(value = "email") String email,@Param(value = "gender") boolean gender, @Param(value = "identity") String identity,@Param(value = "location") String location, @Param(value = "name") String name,@Param(value = "phone") String phone,@Param(value = "typeId") int typeId);
+    @Query(value = "update customer set dob = :dob, email = :email, gender = :gender, identity = :identity, location = :location, name = :name, phone = :phone , customer_type_id = :typeId where id= :id", nativeQuery = true)
+    void editCustomer(@Param(value = "id") int id, @Param(value = "dob") Date dob,@Param(value = "email") String email,@Param(value = "gender") boolean gender, @Param(value = "identity") String identity,@Param(value = "location") String location, @Param(value = "name") String name,@Param(value = "phone") String phone,@Param(value = "typeId") int typeId);
 }
